@@ -7,11 +7,7 @@
 }
 
 .navbar {
-    background-color: #0048a0;
-}
-
-.navbar-light .navbar-brand {
-    color: #CD2E3A;
+    background-color: #CD2E3A;
 }
 
 @media (min-width: 768px) {
