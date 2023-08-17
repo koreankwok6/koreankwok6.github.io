@@ -7,10 +7,10 @@
 }
 
 .navbar {
-    background-color: #0047A0;
+    background-color: #0048a0;
 }
 
-.navbar-brand {
+.navbar .navbar-brand {
     color: #CD2E3A;
 }
 
