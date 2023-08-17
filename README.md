@@ -1,3 +1,3 @@
-## Kwok Chun Kiu's portfolio
+## Kwok Chun Kiu's Korean Class
 
-The original webpage is now under renovation. The new webpage will be constructed using React.
+This is the official website of ...
