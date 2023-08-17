@@ -1,9 +1,19 @@
-.bd-placeholder-img {
+body {
+    background-color: #FFFFFF;
+    color: #242021;
+    font: Lato, san-serif;
+}
+
+bd-placeholder-img {
     font-size: 1.125rem;
     text-anchor: middle;
     -webkit-user-select: none;
     -moz-user-select: none;
     user-select: none;
+}
+
+.navbar-items {
+    font-weight: bold;
 }
 
 @media (min-width: 768px) {
