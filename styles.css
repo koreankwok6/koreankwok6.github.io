@@ -6,10 +6,6 @@
     user-select: none;
 }
 
-.navbar {
-    background-color: #CD2E3A;
-}
-
 @media (min-width: 768px) {
     .bd-placeholder-img-lg {
         font-size: 3.5rem;
